@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to debug React application on How to build Single Page Application with React and Redux</title>
+    <link>//localhost/how-to-build-single-page-application-with-react/debug/</link>
+    <description>Recent content in How to debug React application on How to build Single Page Application with React and Redux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="//localhost/how-to-build-single-page-application-with-react/debug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

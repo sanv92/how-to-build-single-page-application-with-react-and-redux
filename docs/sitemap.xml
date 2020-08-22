@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/application-structure/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/atomic-design/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/feature-driven-development/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/functional-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/redux/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/debug/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost/how-to-build-single-page-application-with-react/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
