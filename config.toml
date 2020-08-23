@@ -1,6 +1,5 @@
-baseURL = "//localhost/how-to-build-single-page-application-with-react"
+baseURL = "//localhost/how-to-build-single-page-application-with-react-and-redux/"
 publishDir = "docs"
-
 
 languageCode = "en-us"
 title = "How to build Single Page Application with React and Redux"

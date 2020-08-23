@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/application-structure/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/application-structure/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/atomic-design/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/atomic-design/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/feature-driven-development/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/feature-driven-development/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/functional-programming/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/functional-programming/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/patterns/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/patterns/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/redux/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/redux/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/debug/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/debug/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/categories/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/</loc>
   </url>
   
   <url>
-    <loc>//localhost/how-to-build-single-page-application-with-react/tags/</loc>
+    <loc>//localhost/how-to-build-single-page-application-with-react-and-redux/tags/</loc>
     <priority>0</priority>
   </url>
   

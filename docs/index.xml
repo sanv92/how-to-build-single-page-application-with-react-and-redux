@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to build Single Page Application on How to build Single Page Application with React and Redux</title>
-    <link>//localhost/how-to-build-single-page-application-with-react/</link>
+    <link>//localhost/how-to-build-single-page-application-with-react-and-redux/</link>
     <description>Recent content in How to build Single Page Application on How to build Single Page Application with React and Redux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="//localhost/how-to-build-single-page-application-with-react/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost/how-to-build-single-page-application-with-react-and-redux/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,69 +1,69 @@
 [
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/application-structure/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/application-structure/",
 	"title": "Application Structure",
 	"tags": [],
 	"description": "Application Structure",
 	"content": " Application Structure Read more:  https://en.bem.info/ https://ru.bem.info/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/atomic-design/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/atomic-design/",
 	"title": "Atomic Design",
 	"tags": [],
 	"description": "Atomic Design",
 	"content": " Atomic Design Read more:  https://www.youtube.com/watch?v=xLuVsU0VN10 https://drive.google.com/file/d/1ZPwpT-6Dkrkb_wKdzkL6kEbJ1knC6pex/view?usp=sharing http://atomicdesign.bradfrost.com/table-of-contents/ https://bradfrost.com/blog/post/creating-themeable-design-systems/ https://bradfrost.com/blog/post/extending-atomic-design/ https://medium.com/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD https://patternlab.io/ http://demo.patternlab.io/ https://github.com/alexpate/awesome-design-systems https://bradfrost.com/blog/post/extending-atomic-design/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/feature-driven-development/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/feature-driven-development/",
 	"title": "Feature Driven Development (Architecture)",
 	"tags": [],
 	"description": "Feature Driven Development (Architecture)",
 	"content": " Feature Driven Development (Architecture) Read more:  https://youtube.com/watch?v=BWAeYuWFHhs https://github.com/technology-ebay-de/feature-driven-architecture/blob/master/scoped-redux.md https://github.com/kof/feature-driven-architecture https://slides.com/kof/feature-driven-architecture http://rekit.js.org/docs/app.html  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/functional-programming/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/functional-programming/",
 	"title": "Functional Programming",
 	"tags": [],
 	"description": "Functional Programming",
 	"content": " Functional Programming Read more:  https://everyone-can-code.github.io/fp/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/patterns/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/patterns/",
 	"title": "React patterns",
 	"tags": [],
 	"description": "React patterns",
 	"content": " React patterns Read more:  https://reactpatterns.com/ https://en.bem.info/methodology/key-concepts/ https://seesparkbox.com/foundry/bem_by_example https://en.bem.info/ https://ru.bem.info/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/redux/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/redux/",
 	"title": "Best Tools for React + Redux Development",
 	"tags": [],
 	"description": "Best Tools for React + Redux Development",
 	"content": " Best Tools for React + Redux Development Read more:  https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape https://redux.js.org/recipes/structuring-reducers/updating-normalized-data https://react-redux.js.org/using-react-redux/accessing-store https://redux-toolkit.js.org/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/debug/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/debug/",
 	"title": "How to debug React application",
 	"tags": [],
 	"description": "How to debug React application",
 	"content": " How to debug React application Read more:  https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html https://calibreapp.com/blog/react-performance-profiling-optimization/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/categories/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/",
 	"title": "How to build Single Page Application",
 	"tags": [],
 	"description": "",
 	"content": " How to build Single Page Application, best practices with React and Redux Read more:  https://en.bem.info/ https://ru.bem.info/  "
 },
 {
-	"uri": "//localhost/how-to-build-single-page-application-with-react/tags/",
+	"uri": "//localhost/how-to-build-single-page-application-with-react-and-redux/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
